@@ -4,6 +4,8 @@ Maecenas mauris eros, sollicitudin at elit in,
 pellentesque
 mattis orci. Aliquam elementum finibus dictum.
 
+CHANGED BY MAINTAINER
+
 Aenean vitae condimentum eros. Nullam quis laoreet metus.
 Phasellus at tincidunt dolor. Orci varius natoque
 penatibus
