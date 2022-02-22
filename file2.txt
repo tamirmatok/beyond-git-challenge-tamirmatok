@@ -12,5 +12,8 @@ penatibus
 et magnis dis parturient montes, nascetur ridiculus mus.
 Cras pretium ullamcorper quam sit amet dapibus.
 
+CHANGED BY CONTRIBUTOR
+
+
 Integer ac nibh nec est porttitor semper ultrices eu
 ligula. Etiam sodales porttitor venenatis.
